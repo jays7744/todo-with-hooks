@@ -1,0 +1,13 @@
+firstly create basic Todo UI.
+
+In the Ui will create input bar with Add and Reset Button.
+
+after that make function componant for todo with hooks.
+
+then will create one function for Add value from input.
+
+also create second function for reset value from input bar.
+
+
+ 
+
