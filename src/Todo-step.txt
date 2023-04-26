@@ -9,5 +9,21 @@ then will create one function for Add value from input.
 also create second function for reset value from input bar.
 
 
- 
+2nd stage
+
+create checkbox under p tag in list component.
+
+and one function will be create for checkbox.
+
+also create another p tag with logic for checked item, the checked item will be add in that tag.
+
+same vise versa while uncheck.
+
+
+
+
+
+
+
+
 
